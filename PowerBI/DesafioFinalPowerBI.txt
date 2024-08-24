@@ -1,0 +1,4 @@
+Analise do Insights tirados do DesafioFinalPowerBI:
+- Podemos analisar que conseguimos manter um padrão de vendas em todas as nossas lojas, não tendo nenhuma loja que se afaste muito do padrão da empresa.
+- Pode-se analisar que desde 2018 o faturamento anual da empresa se mantem estável, não tendo nenhum ano conturbado fora dos padrões da empresa.
+- Por fim, os produtos que mais aumentam o faturamento da empresa são: Sapatos e Bonés, o produto que menos aumenta o faturamento da empresa é a Meia.
